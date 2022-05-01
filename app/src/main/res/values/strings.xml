@@ -2,4 +2,5 @@
     <string name="app_name">CameraApp</string>
     <string name="camera_view">Camera View</string>
     <string name="photo">Photo</string>
+    <string name="capture">CAPTURE</string>
 </resources>
